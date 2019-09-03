@@ -1,6 +1,6 @@
-# EE209: Programming Structures for EE
+# EE209: Programming Structures for Electrical Engineering
 
-### ReadMe
+### Readme
 
 This is the last assignment of the course Programming Structures for Electrical Engineering. During the whole spring semester in 2017, I had done total 6 programming assignments **written in C** and this is the hardest one which is a task about building a Unix Shell.
 
