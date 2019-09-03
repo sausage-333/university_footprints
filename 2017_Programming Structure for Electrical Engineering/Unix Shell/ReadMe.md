@@ -2,7 +2,7 @@
 
 ### Readme
 
-This is the last assignment of the course Programming Structures for Electrical Engineering. During the whole spring semester in 2017, I had done total 6 programming assignments **written in C** and this is the hardest one which is a task about building a Unix Shell.
+This is the last assignment of the course *Programming Structures for Electrical Engineering*. During the whole spring semester in 2017, I had done total 6 programming assignments **written in C** and this is the hardest one which is a task about building a Unix Shell.
 
 Following text is the brief of the assignment. I omitted the detail requirements of it. If you want to refer the detail, you can check the link below.
 
