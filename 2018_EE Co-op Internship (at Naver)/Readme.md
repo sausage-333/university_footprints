@@ -17,5 +17,5 @@ This folder contains the mid-term & final-term presentation files made at Naver'
 2. Modeling HRTF to filter coefficients
 - Our final goal was to apply in real-time, so faster speed was necessary. Instead of convolutioning audio with HRTFs, I modeled HRTF to several filter coefficients using Prony's method. Filtering with coefficients only takes about 7% in comparison with convolutioning HRTFs. There were 3 main issues to make this functions, modeling HRTF, making filter coefficients table, and referring to that table.
 
-3. Added attenuation function
+3. Attenuation function added
 - Since there is more energy loss in high frequency at far distance, I implemented near-field and far-field attenuation respectively. It makes sound more alive and well.
